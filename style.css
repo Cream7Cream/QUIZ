@@ -1,0 +1,23 @@
+
+h1{
+    text-align: center;
+    font-family: cursive;}
+    
+    img{ width: 200px;
+    margin:10px;
+    box-sizing: border-box;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 20%;
+  
+  
+  }
+    body{ background-color: bisque;}
+  
+  
+  
+  
+   img:hover {
+     border: 3px solid red;
+    }
+    
